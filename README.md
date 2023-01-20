@@ -12,6 +12,4 @@
 
 4 - Monitoria com Prometheus e Grafana;
 
-rafaelspindola
-DeadRon
 
