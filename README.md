@@ -1,5 +1,7 @@
 # POC-api-mensageria
 
+
+
 1 - Microsserviços se comunicando via mensageria;
 
 
@@ -7,3 +9,8 @@
 
 
 3 - Comunicação síncrona via Feign;
+
+
+rafaelspindola
+DeadRon
+
