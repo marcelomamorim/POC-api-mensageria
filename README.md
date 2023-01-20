@@ -10,6 +10,7 @@
 
 3 - Comunicação síncrona via Feign;
 
+4 - Monitoria com Prometheus e Grafana;
 
 rafaelspindola
 DeadRon
